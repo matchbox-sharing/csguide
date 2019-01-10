@@ -1,3 +1,4 @@
 {
-    "plugins": ["video"]
+    "plugins": ["block-align"]
 }
+
