@@ -1,5 +1,5 @@
 # How to learn programming languages by myself ?
-The category of languages is quite important, not in the sense that you know some fancy words about the languages, but it can guide to learn programming by yourself. You may have already seen some categories above. Here, we make several rules to guide you to learn by yourself.
+The category of languages is quite important, not in the sense that you know some fancy words about the languages, but it can guide to learn programming by yourself. You may have already seen some categories from different perspectives above, such as interpreted language, object-oriented language. Here, we make several rules to guide you to learn by yourself.
 
 * __DON'T__ use IDE when you learn a new language. __JUST DON'T__.
 * Find its tool chain of the language.
