@@ -31,9 +31,10 @@
 * [What is it ?](ai/whatisit.md)
 * [How to learn ?](ai/howtolearn.md)
 
-### Software Engineering
-* [What is it ?](se/whatisit.md)
-* [How to learn ?](se/howtolearn.md)
+
+[//]: # ### Software Engineering
+[//]: # * [What is it ?](se/whatisit.md)
+[//]: # * [How to learn ?](se/howtolearn.md)
 
 ### Network 
 * [Resources](network/resources.md)
