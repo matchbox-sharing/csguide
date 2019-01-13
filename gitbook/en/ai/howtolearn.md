@@ -10,3 +10,6 @@ Since this topic is still growing, plenty of subjects are still under research a
   * For Image proccessing, take the course [Introduction to Convolutional Neural Networks for Visual Recognition](https://www.youtube.com/watch?v=vT1JzLTH4G4&list=PLC1qU-LWwrF64f4QKQT-Vg5Wr4qEE1Zxk)
 
 But, this is a __BIG BUT__. AI is a field trying to figure out the spiral model how we think, percept and act. Since as human being, we don't fully understand ourselves, the AI which is a copy of us will be a mystery to create, or maybe we can use AI to understand ourselves better. These are all open questions. So when you take the course, be careful about the belief that you have mastered it. I think no one actually understand the fundamental formula of ourselves or AI at present.
+
+
+<br /><br /><a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.

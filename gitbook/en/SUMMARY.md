@@ -3,8 +3,8 @@
 * [Introduction](README.md)
 
 ### Overview 
-* [Who should read this book ?](overview/USER.md)
-* [About project](overview/PROJECT.md)
+* [CS knowledge graph](overview/knowledgegraph.md)
+* [Sincere suggestions](overview/suggestions.md)
 
 
 ### Programming Languages
@@ -36,8 +36,10 @@
 [//]: # * [What is it ?](se/whatisit.md)
 [//]: # * [How to learn ?](se/howtolearn.md)
 
-### Network 
-* [Resources](network/resources.md)
+[//]: # ### Network 
+[//]: # * [Resources](network/resources.md)
+
+
 
 ### Community
 * [FAQ](community/FAQ.md)
