@@ -1,14 +1,14 @@
 # What is programming language about ?
 
 ### How important is the programming language ?
-Programming language is the basic tool for CS students to master, you are going to use it to describe the scenarios and problems of the real world, as well as the solutions. For the freshman CS students, or non-CS students, they may wonder which languages they should learn. Here, we are going to give you a pratical answer with theoretical explanation.
+Programming language is the basic tool for CS students to master, you are going to use it to describe the scenarios and problems of the real world, as well as the solutions. For the freshman CS students, or non-CS students, they may wonder which languages they should learn.(~~After reading below paragraph, I still don't know how to choose the languages,maybe related each language with some practical projects or funny things or career~~ ) Here, we are going to give you a pratical answer with theoretical explanation.
 
 ### How can machine understand what we write ?
 First we need to know is how the language is interacted between us human-being and the machine. It should be considered as the same idea of production process, e.g, how can we get the juice in supermarket from fruit.
 
 The programming langauge is just as the natural language we speak, with syntax and semantics meaning. When we write natrual language down, or speak them, other human-being can understand them, since we master the same syntax and semantics in our common knowledge. And for programming languages, we write them down, we would like to make machine to understand them, so that it can perform the tasks we assign. That is why we design the whole mechanism between human-being and machine, including the programming itself and its "translation" tool chain.
 
-Let's talk about the human-machine mechanism more. It is better for you to check the history of computer first to know the background, and here we only focus on languages itself more. The language and its "translation" mechanism are developed almost as the same pace as the machine. They are both for solving problems with lower cost, e.g, cheaper machine, faster development. 
+Let's talk about the human-machine mechanism more. It is better for you to check the history of computer(~~Add a link here~~) first to know the background, and here we only focus on languages itself more. The language and its "translation" mechanism are developed almost as the same pace as the machine. They are both for solving problems with lower cost, e.g, cheaper machine, faster development. 
 
 * During the punch card era, human-being is the "translate" tool chain, we encode the problem into commands and translate the commands into binary according to the mapping sheet we design. We also design the machine which is compatible with the mapping sheet. That is why the machine could understand us.
  

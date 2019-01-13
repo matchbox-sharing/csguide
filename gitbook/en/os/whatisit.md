@@ -1,4 +1,4 @@
-# What is Operating System about ?
+# What is Operating System about ?(~~There is no content about why I have to learn it~~)
 
 Operating System is a very heavy topic in Computer Science. It's an abstraction layer lying between hardware and software. Even its boundary was argued in Windows, Unix-based OS, and still be shifted according to the architeture of modern computer world, such as multi-user scienario, network booming, cloud computing, mobile booming, IoT growth.
 

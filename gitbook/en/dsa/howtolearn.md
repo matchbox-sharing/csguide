@@ -1,4 +1,4 @@
-# How to learn Data Structure and Algorithm ?
+# How to learn Data Structure and Algorithm ?(~~Need the suggestion about the order of below lecture learning~~)
 
 You can follow MIT courses:
 * [MIT: Introduction to Algorithms](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/)

@@ -1,4 +1,4 @@
-# What's Computer Organization about ?
+# What's Computer Organization about ?(~~There is no content about why I need this~~)
 
 As it is named, it is about the organization of computer. Before any digging into tech details, you should be able to ask questions about this topic first. If this topic is too abstract, let's make an example in our daily life. For instance, Tom from France and XiaoMing from China start a conversation about family organization, which is a topic everyone can be involved. It may go like this,
 
@@ -7,7 +7,7 @@ As it is named, it is about the organization of computer. Before any digging int
 `XiaoMing`: My parents, me, my cat wowo and dog miaomiao. So there are five.
 
 `Tom`: Where do you live ? Do you all live together ?
-XiaoMing: Not really. I am living in ShenZhen as an Engineer with my cat wowo, and my parents live in a small town in XinJiang with our dog miaomiao.
+XiaoMing(~~style issue~~): Not really. I am living in ShenZhen as an Engineer with my cat wowo, and my parents live in a small town in XinJiang with our dog miaomiao.
 
 `Tom`: So are they going to move to ShenZhen and live with you one day ? 
 
