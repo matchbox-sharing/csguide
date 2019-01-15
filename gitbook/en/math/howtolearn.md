@@ -7,7 +7,7 @@ and [MIT: Introduction to Probability and Statistics](https://ocw.mit.edu/course
 
 * If you want to understand compiler and interpretor, even more, the fundamental system design thoughts, [Stanford: Automata Theory](https://lagunita.stanford.edu/courses/course-v1:ComputerScience+Automata+SelfPaced/about) is a prerequisite course.
 
-Beside understanding the math, it is better to resolve the math problems using your programming skills, so that you can build connection between CS and math.
+Besides understanding the math, it is better to resolve the math problems using your programming skills, so that you can build connection between CS and math.
 
 
 

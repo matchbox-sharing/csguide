@@ -17,5 +17,6 @@ The best way to learn this topic is to review the history, and ask questions. Fo
 * Is there OS for IoT usage ?
 * Is that possible to create my own operating system ?
 
+If you want to become a system engineer, you have to take this course seriously. However, if you are going to be an application developer, it is good that you understand this topic.
 
 <br /><br /><a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
