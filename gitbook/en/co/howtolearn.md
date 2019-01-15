@@ -21,7 +21,7 @@ To answer this question, it is better to know the history of computer, which imp
 
 ### Do I have to learn each one of those components, I mean the concrete ones, like mouse, keyboard, disk ? 
  
-That is the beauty of abstraction, since the idea of building a computer has been designed, implemented and tested repeatly till now and still on, the concepts and mechanism has been formalized and become as a subject in computer science. We could learn those components by category, by understanding the abstract idea and making experiment with concrete ones. Once you master the methodology of learning this topic, everything will go with ease.
+That is the beauty of abstraction, since the idea of building a computer has been designed, implemented and tested repeatly till now and still on, the concepts and mechanism have been formalized and become as a subject in computer science. We could learn those components by category, by understanding the abstract idea and making experiment with concrete ones. Once you master the methodology of learning this topic, everything will go with ease.
 
 ### I have already watched the documentary videos you recommend, but I still don't quite get how those components work together, what's next ?
 

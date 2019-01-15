@@ -1,5 +1,5 @@
 # How to learn programming languages by myself ?
-The category of languages is quite important, not in the sense that you know some fancy words about the languages, but it can guide to learn programming by yourself. You may have already seen some categories from different perspectives above, such as interpreted language, object-oriented language. Here, we make several rules to guide you to learn by yourself.
+The category of languages is quite important, not in the sense that you know some fancy words about the languages, but it can guide you to learn programming by yourself. You may have already seen some categories from different perspectives above, such as interpreted language, object-oriented language. Here, we make several rules to help you start.
 
 * __DON'T__ use IDE when you learn a new language. __JUST DON'T__.
 * Find its tool chain of the language.
@@ -20,8 +20,8 @@ In conclusion, you need to be a humble learner, doing a lot of practice, however
 Here, we list resources for you.
 
 ### Languages
-* JAVA 
-  * In course [Stanford: Programming Methodology](https://see.stanford.edu/Course/CS106A), the lecturer explains everything you need to know about JAVA, as well as the approach to design your project, such as writing your code in a systematical sytle, best-practice of design and how to validate whether the project is designed appropriately. The lecturer both explain the concept and code examples in the course, in order to make you understood better. And you will find the lecturer is very motivating to encourage students.
+* Java 
+  * In course [Stanford: Programming Methodology](https://see.stanford.edu/Course/CS106A), the lecturer explains everything you need to know about Java, as well as the approach to design your project, such as writing your code in a systematical sytle, best-practice of design and how to validate whether the project is designed appropriately. The lecturer explains both the concept and code examples in the course, in order to make you understood better. And you will find the lecturer is very motivating to encourage students.
 * C and C++
   * [Cprogramming](https://www.cprogramming.com/) contains quite complete resources in `C` and `C++`, you can use it as reference and self-learning material.
   * In course [Stanford: Programming Abstractions](https://see.stanford.edu/Course/CS106B), `C++` as a language itself is so well explained, as well as the abstraction idea of software engineering. The content of this course is rich both in information level and knowledge level. You will enjoy the course very much since the lecturer is also excited to encourage the students.
@@ -33,13 +33,13 @@ Here, we list resources for you.
   * [Javascripts]()
   * [Nodejs]()
 
-Unfortunately, in some of these language courses, the lecturer may not explain the how compiler and interpretor work, or how to use them to build your own toolchain, I am here seriously emphasize that __you HAVE TO set your own building environment__, it is very very __IMPORTANT__ in the sense that the language is a material of a product and the produce pipeline should be mastered as well if you are an engineer. If you are not able to do on your own after searching and struggling with it, you could email me(~~given the email here~~), I may create a video to explain how to do it.
+Unfortunately, in some of these language courses, the lecturer may not explain the how compiler and interpretor work, or how to use them to build your own toolchain, I am here seriously emphasize that __you HAVE TO set your own building environment__, it is very very __IMPORTANT__ in the sense that the language is a material of a product and the product pipeline should be mastered as well if you are an engineer.
 
 If you are interested in how the machine understand the project we write, you definitely should learn the course about compiler.
 ### Compiler
-The whole pipeline of programming language processing are well explained in the course [Stanford: Compilers](https://lagunita.stanford.edu/courses/Engineering/Compilers/Fall2014/about). If you have math problems with it, you could check [Stanford: Automata Theory](https://lagunita.stanford.edu/courses/course-v1:ComputerScience+Automata+SelfPaced/about) as prerequisite. If you think the compiler course is a piece of cake, you should definitely learn "Theory of computation(~~what it is? a book, a lecture?~~)".
+The whole pipeline of programming language processing are well explained in the course [Stanford: Compilers](https://lagunita.stanford.edu/courses/Engineering/Compilers/Fall2014/about). If you have math problems with it, you could check [Stanford: Automata Theory](https://lagunita.stanford.edu/courses/course-v1:ComputerScience+Automata+SelfPaced/about) as prerequisite. If you think the compiler course is a piece of cake, you should definitely learn [Theory of computation](https://ocw.mit.edu/courses/mathematics/18-404j-theory-of-computation-fall-2006/).
 
-### Programming philosophy (~~Since it is the basic, maybe it's better to put the section in the beginning of the article~~)
+### Programming philosophy
 Don't be scared about the the title written above. I will not say this topic is hard, not because it is not hard, I prefer to consider it as fundamental kernel. In my opinion, every software engineer should understand this topic in order to achieve more. First of all, the computer science is __NOT__ science, it is not like biology, physics, already there before human existence, we observe the world and analyze the phenomenon, reach conclusion as theory and apply them in engineer project. Computer science is a whole architecture designed and built by us human-being. The whole philosophy behind it is how we think and descibe the real world, representing in the virtual world. To learn programming philosophy is actually to learn how we think.
 
 That is why it is so fundamental, once you know that, you are able to learn other different subjects very systematically and fast. And here are some courses I strongly recommend.

@@ -1,8 +1,8 @@
 # What is mathematics for Computer Science ?
 
-As you have known, computer was designed to release the human being from tiresome calculation. Along with the time, the computer is not only for caculation usage, however, rich applications are created upon the machine. The interesting part of the topic is, inversely, the math supports the computer science development all way along.
+As you have known, computer was designed to release the human being from tiresome calculation. Along with the time, the computer is not only for caculation usage, rich applications are created upon the machine. The interesting part of the topic is, inversely, the math supports the computer science development all way along.
 * When we design a programming language and its "translation" toolchain, we need __Logic__ and __Theory Of Computation__ to back us up.
-* When we want to work on Natural Language Processing in order to make machine understand us, beside Linguistics, __Probability__ and __Statistics__ are neccessary.
+* When we want to work on Natural Language Processing in order to make machine understand us, besides Linguistics, __Probability__ and __Statistics__ are neccessary.
 * When we want to work on Algorithm Design, __Discrete Math__, __Number Theory__, __Theory Of Computation__, __Graph Theory__ and more are needed.
 * When we want to work on Machine Learning, the __Linear Algebra__ and __Probability__ are vital important.
 
