@@ -5,7 +5,7 @@ Operating System is a very heavy topic in Computer Science. It's an abstraction 
 <div style="text-align:center">
 <img src="https://upload.wikimedia.org/wikipedia/commons/e/e1/Operating_system_placement.svg">
 </div>
-{% center %} **Operating System layer** {% endcenter %}
+{% center %} **Operating System Layer** {% endcenter %}
 
 The best way to learn this topic is to review the history, and ask questions. For example,
 
